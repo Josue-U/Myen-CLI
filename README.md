@@ -6,6 +6,5 @@ In your terminal, type this command :
 
 npm i @josue-u/josuemyencli
 
-
 ## Command
 $ holidates 
