@@ -6,5 +6,23 @@
     "figlet": "^1.5.0",
     "or": "^0.2.0",
     "ora": "^5.4.0"
-  }
+  },
+  "name": "@josue-u/josuemyencli",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "holidays"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josue-U/Myen-CLI.git"
+  },
+  "author": "josueu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josue-U/Myen-CLI/issues"
+  },
+  "homepage": "https://github.com/Josue-U/Myen-CLI#readme"
 }
