@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@josue-u/josuemyencli": "^1.0.1",
+    "@josue-u/josuemyencli": "^1.0.0",
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "country-list": "^2.2.0",
@@ -10,7 +10,7 @@
   },
   "name": "@josue-u/josuemyencli",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "bin": {
     "holidates": "./index.js"
